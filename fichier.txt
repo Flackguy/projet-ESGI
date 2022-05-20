@@ -1,6 +1,12 @@
 ligne1
 ligne2
 ligne3
+<<<<<<< HEAD
 ligne4
 ligne5
 ligne6
+=======
+l4
+l5
+l6
+>>>>>>> dev
